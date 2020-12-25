@@ -1,0 +1,8 @@
+version: "3"
+
+services:
+  nuxt:
+    build: env-nuxt
+    ports:
+      - "80:80"
+    tty: true

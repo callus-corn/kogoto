@@ -1,0 +1,9 @@
+{
+    "name": "kogoto",
+    "scripts": {
+        "dev": "nuxt --hostname 0.0.0.0 --port 80",
+        "build": "nuxt build",
+        "generate": "nuxt generate",
+        "start": "nuxt start"
+    }
+}
